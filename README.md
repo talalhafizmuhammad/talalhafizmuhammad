@@ -11,7 +11,7 @@ A guy, who is a passionate learner and aspiring professional in:
 1. Building a strong GitHub portfolio
 2. Exploring ethical hacking & penetration testing
 3. Practicing coding challenges (without using STL!)
-4. Learning OPython deeply for AI, ML, Data Sciences
+4. Learning Python deeply for AI, ML, Data Sciences
 
 🧠 Skills & Tools:
 Languages: C, C++, Python, Bash
