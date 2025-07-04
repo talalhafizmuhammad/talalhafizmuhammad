@@ -5,13 +5,22 @@
 
 ---
 
-### 💻 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-informational?style=for-the-badge&logo=tryhackme&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Linux-RedHat-informational?style=for-the-badge&logo=redhat&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Programming-C/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine Learning-Python-yellowgreen?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-- 🔐 Currently learning **Cybersecurity** via TryHackMe, IBM, and Cisco
-- 💡 Exploring **Red Hat**, **Linux CLI**, and system hardening
-- 👨‍💻 Practicing **C/C++**, matrix algorithms, and pointer-based logic
-- 🤖 Diving into **Data Science & ML** using Python, NumPy, Pandas
-- 🔭 Building a personal cybersecurity + Linux lab (Kali, Ubuntu, Parrot)
+---
+
+- 🔐 Learning hands-on **Cybersecurity** from platforms like **TryHackMe**, **IBM**, and **Cisco NetAcad**
+- 🐧 Exploring **Red Hat Linux**, terminal tools, and **system hardening**
+- 💻 Practicing deep-level **C/C++ programming** — matrix ops, memory logic, pointer mastery
+- 📊 Getting into **Data Science & ML** with **Python**, **NumPy**, and **Pandas**
+- 🧪 Running my own **Cybersecurity Lab** with **Kali Linux**, **Ubuntu**, and **Parrot OS** using **VirtualBox** and dual-boot
+
+---
 
 ---
 
