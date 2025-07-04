@@ -1,16 +1,28 @@
-## Hi, Hafiz Muhammad Talal Here 👋
+👋 Hello and Assalam u Alaikum everyone, I'm Hafiz Muhammad Talal!
 
-<!--
-**talalhafizmuhammad/talalhafizmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A guy, who is a passionate learner and aspiring professional in:
 
-Here are some ideas to get you started:
+🛡️ Cybersecurity (Learning with TryHackMe, Cisco, IBM, HackTheBox)
+🤖 AI, Machine Learning & Data Science (NumPy, Pandas, Python)
+💻 C/C++ Developer (Problem-solving, matrix ops, pointer logic)
+☁️ Cloud & Linux Enthusiast (Dual-boot setups, Red Hat path)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Focus:
+1. Building a strong GitHub portfolio
+2. Exploring ethical hacking & penetration testing
+3. Practicing coding challenges (without using STL!)
+4. Learning OPython deeply for AI, ML, Data Sciences
+
+🧠 Skills & Tools:
+Languages: C, C++, Python, Bash
+Tools: Git, GitHub, Linux, TryHackMe, NetAcad, VirtualBox and more
+Studying: Red Hat, Cybersecurity labs, Machine Learning, Data Sciences
+
+📈 GitHub Stats
+GitHub Stats: https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight
+
+
+📫 Let's connect!
+LinkedIn: www.linkedin.com/in/hafiz-muhammad-talal
+GitHub: https://github.com/talalhafizmuhammad
+
