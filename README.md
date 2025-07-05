@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Hafiz M Talal 👋</h1>
 <p align="center">
-  🧠 C/C++ Programmer | 🔐 Cybersecurity Learner | 🐧 Linux & Red Hat Enthusiast | 🌐 Web Enthusiast
+  🧠 C/C++ Programmer | 🔐 Cybersecurity Learner | 🐧 Linux & Red Hat Enthusiast | 🌐 Web Enthusiast | Data Sciences
 </p>
 
 <p align="center">
