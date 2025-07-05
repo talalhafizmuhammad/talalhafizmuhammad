@@ -8,13 +8,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/RedHat-Linux-black?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-Python-yellowgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python-yellowgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-CSS3-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Data-Sciences-?style=for-the-badge&logo=DataScience&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-Numpy/Pandas/Sklearn-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 
 🧠 Skills & Tools
