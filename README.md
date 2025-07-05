@@ -22,9 +22,8 @@
 
 ### 🧠 Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,linux,bash,numpy,pandas,scikitlearn,seaborn,matplotlib,tensorflow" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,linux,bash,numpy,pandas,scikitlearn,seaborn,matplotlib,tensorflow" />
+
 
 <br/>
 
