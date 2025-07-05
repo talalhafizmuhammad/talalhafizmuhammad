@@ -3,8 +3,6 @@
   🧠 C/C++ Programmer | 🔐 Cybersecurity Learner | 🐧 Linux & Red Hat Enthusiast | 🌐 Web Enthusiast
 </p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/RedHat-Linux-black?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -15,7 +13,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-Numpy/Pandas/Sklearn-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
 
 
 🧠 Skills & Tools
@@ -41,13 +38,13 @@
 </p>
 
 
+
 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&theme=tokyonight" height="160" />
 </p>
-
 
 
 🔥 GitHub Streak
@@ -57,12 +54,25 @@
 </p>
 
 
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talalhafizmuhammad&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+
+📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talalhafizmuhammad&theme=tokyo-night&area=true" />
+</p>
+
+
 📍 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=talalhafizmuhammad&style=flat-square&color=00ffee" alt="visitor counter" />
 </p>
-
 
 🤝 Connect With Me
 
@@ -72,10 +82,7 @@
   <a href="https://github.com/talalhafizmuhammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 💬 Quote That Inspires Me
 
 > **"The quieter you become, the more you are able to hear."** – Rumi
-
-
