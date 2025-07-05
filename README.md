@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/HTML-CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Sciences-black?style=for-the-badge&logo=DataScience&logoColor=white" />
 </p>
 
 
