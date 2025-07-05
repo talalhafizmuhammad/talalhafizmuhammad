@@ -22,7 +22,10 @@
 
 ### 🧠 Skills & Tools
 
-<img src="https://shield.io.dev/icons?i=c,cpp,python,html,css,js,tailwind,linux,bash,numpy,pandas,scikitlearn,seaborn,matplotlib,tensorflow" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,linux,bash,scikitlearn,seaborn,tensorflow" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
 
 
 <br/>
