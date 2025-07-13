@@ -62,13 +62,18 @@
 
 ---
 
-## 🔥 Leetcode Streak
+## 🚀 Coding Activity
 
-![LeetCode Streak](https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap) 
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=dark" alt="GitHub Streak"/></td>
+    <td><img src="https://leetcard.jacoblin.cool/hafiztalal?theme=dark&ext=heatmap" alt="LeetCode Streak"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=dark" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&theme=dark" alt="Top Languages"/></td>
+  </tr>
+</table>
 
 
 ### 🏆 GitHub Trophies
