@@ -61,6 +61,7 @@
 </p>
 
 ---
+![LeetCode Streak](https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap) 
 
 ### 🏆 GitHub Trophies
 
