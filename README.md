@@ -65,14 +65,15 @@
 
 <table>
   <tr>
-    <td align="center"><strong>🔥 GitHub Heatmap</strong><br><br>
-      <img src="https://ghchart.rshah.org/green/talalhafizmuhammad" alt="GitHub Contribution Chart" height="180" style="background-color:#0d1117; border-radius:8px; padding:4px;">
+    <td align="center"><strong>🔥 GitHub Streak</strong><br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=talalhafizmuhammad&theme=dark&hide_border=true" height="180">
     </td>
     <td align="center"><strong>🧠 LeetCode Heatmap</strong><br><br>
-      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap" alt="LeetCode Streak" height="180">
+      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap" height="180">
     </td>
   </tr>
 </table>
+
 
 
 
