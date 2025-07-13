@@ -61,26 +61,18 @@
 </p>
 
 ---
-
-## 🚀 Coding Activity
-
-## 🚀 My Coding Activity
+## 🧠 Daily Coding Streaks
 
 <table>
   <tr>
-    <td align="center"><strong>🔥 GitHub Streak</strong><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=dark" height="150">
+    <td align="center"><strong>🔥 GitHub Heatmap</strong><br><br>
+      <img src="https://ghchart.rshah.org/talalhafizmuhammad" alt="GitHub Contribution Chart" height="180">
     </td>
-    <td align="center"><strong>🧠 LeetCode Streak</strong><br>
-      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap" height="150">
+    <td align="center"><strong>🧠 LeetCode Heatmap</strong><br><br>
+      <img src="https://leetcard.jacoblin.cool/hafiztalal?theme=dark&ext=heatmap" alt="LeetCode Streak" height="180">
     </td>
-    <td align="center"><strong>📊 GitHub Stats</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=dark" height="150">
-    </td>
-    <td align="center"><strong>🧑‍💻 Top Languages</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&theme=dark" height="150">
-    </td>
-  </t
+  </tr>
+</table>
 
 
 
