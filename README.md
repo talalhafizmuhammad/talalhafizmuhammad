@@ -64,16 +64,24 @@
 
 ## 🚀 Coding Activity
 
+## 🚀 My Coding Activity
+
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=dark" alt="GitHub Streak"/></td>
-    <td><img src="https://leetcard.jacoblin.cool/hafiztalal?theme=dark&ext=heatmap" alt="LeetCode Streak"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=dark" alt="GitHub Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&theme=dark" alt="Top Languages"/></td>
-  </tr>
-</table>
+    <td align="center"><strong>🔥 GitHub Streak</strong><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=dark" height="150">
+    </td>
+    <td align="center"><strong>🧠 LeetCode Streak</strong><br>
+      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap" height="150">
+    </td>
+    <td align="center"><strong>📊 GitHub Stats</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=dark" height="150">
+    </td>
+    <td align="center"><strong>🧑‍💻 Top Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&theme=dark" height="150">
+    </td>
+  </t
+
 
 
 ### 🏆 GitHub Trophies
