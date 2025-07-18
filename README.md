@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🧠 C/C++ Programmer | 🔐 Cybersecurity Learner | 🐧 Linux & Red Hat Enthusiast | 🌐 Web Enthusiast
+  🧠 Python/C/C++ Programmer | 🔐 Cybersecurity Learner | 🐧 Linux & Red Hat Enthusiast | 🌐 Web Enthusiast 
 </p>
 
 ---
