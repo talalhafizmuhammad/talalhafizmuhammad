@@ -78,12 +78,21 @@
 
 
 
-
-### 🏆 GitHub Trophies
+### 🏆 Github Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talalhafizmuhammad&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=talalhafizmuhammad
+    &theme=gruvbox
+    &column=4
+    &margin-w=15
+    &margin-h=15
+    &no-frame=true
+    &title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Discussions,Organizations,Reviews"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
