@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=12&theme=tokyonight" height="160" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=10&theme=tokyonight" height="160"  />
 </p>
 
 ---
