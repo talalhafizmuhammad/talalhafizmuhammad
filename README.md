@@ -7,6 +7,8 @@
 </p>
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=github_dark)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
