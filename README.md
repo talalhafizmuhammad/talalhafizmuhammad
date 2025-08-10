@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight" height="160" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=10&theme=github_dark)
+<img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=10&theme=github_dark)" />
 </p>
 
 ---
