@@ -48,11 +48,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=10&theme=github_dark" />
 </p>
 
