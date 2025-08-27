@@ -75,7 +75,7 @@
       <img src="https://ghchart.rshah.org/talalhafizmuhammad" alt="GitHub Contribution Chart" height="180">
     </td>
     <td align="center"><strong>🧠 LeetCode Heatmap</strong><br><br>
-      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammad?theme=dark&ext=heatmap" alt="LeetCode Streak" height="180">
+      <img src="https://leetcard.jacoblin.cool/talalhafizmuhammed?theme=dark&ext=heatmap" alt="LeetCode Streak" height="180">
     </td>
   </tr>
 </table>
