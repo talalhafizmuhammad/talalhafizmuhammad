@@ -208,6 +208,18 @@ I focus on building **clean, automated, production-grade systems** with an empha
   <img src="https://streak-stats.demolab.com/?user=talalhafizmuhammad&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
+### 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talalhafizmuhammad/talalhafizmuhammad/output/github-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
 <table align="center">
   <tr>
     <td align="center"><strong>GitHub Heatmap</strong><br><br>
