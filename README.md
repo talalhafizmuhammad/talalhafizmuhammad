@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🤖 AI/MLOps Engineer &nbsp;|&nbsp; 🛠️ DevOps & Infrastructure &nbsp;|&nbsp; ⚙️ Backend Developer &nbsp;|&nbsp; 🐧 Linux Enthusiast
+  AI/MLOps Engineer &nbsp;|&nbsp;  DevOps & Infrastructure &nbsp;|&nbsp;  Backend Developer &nbsp;|&nbsp;  Linux Enthusiast
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-### 🧰 Core Stack
+###  Core Stack
 
-#### 🚀 DevOps & Infrastructure
+####  DevOps & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-#### 🤖 AI / ML / MLOps
+####  AI / ML / MLOps & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -34,33 +36,35 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6C47FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend & Systems
+####  Backend & Systems
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
-
-#### 📚 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 ---
 
-#### 🔔 [AlertMind]([https://alertmind-dashboard.vercel.app/]) — AI-Powered On-Call Assistant for Engineering Teams
+####  [AlertMind](https://github.com/talalhafizmuhammad) — AI-Powered On-Call Assistant for Engineering Teams
 > *Server alert fires at 3 AM. AlertMind wakes up instead of you.*
 
 AlertMind receives infrastructure alerts (CPU, memory, latency, error rate), correlates them with real GitHub commit history, uses AI to pinpoint the exact guilty commit and author, then posts a full diagnosis + fix suggestion to Slack — in seconds.
@@ -76,11 +80,11 @@ AlertMind receives infrastructure alerts (CPU, memory, latency, error rate), cor
 
 **Stack:** `Python` `FastAPI` `Next.js` `PostgreSQL` `Supabase` `Docker` `GitHub Actions` `Slack SDK` `GitHub API` `OpenRouter (Gemini)` `Stripe` `Ubuntu`
 
-**Live:** [Dashboard](https://alertmind-dashboard.vercel.app/) · [GitHub](https://github.com/talalhafizmuhammad/alertmind-dashboard)
+**Live:** [Dashboard](https://lnkd.in/dgbYD83D) · [GitHub](https://lnkd.in/dnwfy-Rf)
 
 ---
 
-#### 🎓 [University Management Portal](https://university-portal-frontend-nu.vercel.app/) — Production App Used by 65+ Students @ PUCIT
+####  [University Management Portal](https://lnkd.in/d3iNJvV3) — Production App Used by 65+ Students @ PUCIT
 > *Built it. Broke it during exam season. Rebuilt it properly.*
 
 A full portal for managing courses, assessments, and student grades with PU's weighted grading system. v1 was a learning project. v2 is a production-grade rebuild after real usage exposed real problems.
@@ -99,7 +103,7 @@ A full portal for managing courses, assessments, and student grades with PU's we
 
 ---
 
-#### 🔐 [CipherGuard](https://cipher-guard-gamma.vercel.app/) — DSA-Based Cybersecurity Analyzer
+####  [CipherGuard](https://github.com/talalhafizmuhammad) — DSA-Based Cybersecurity Analyzer
 > *A multi-tool cybersecurity suite built on core CS fundamentals.*
 
 A Python + React full-stack cybersecurity toolkit covering multiple attack surfaces and defensive utilities, all backed by DSA-driven logic.
@@ -119,7 +123,7 @@ A Python + React full-stack cybersecurity toolkit covering multiple attack surfa
 
 ---
 
-#### 💌 Gesty *(In Development)* — Premium Hospitality Invitation Platform
+####  Gesty *(In Development)* — Premium Hospitality Invitation Platform
 > *Targeting the Saudi Arabian luxury events market.*
 
 A three-actor platform (Sender, Recipient, Merchant) for premium digital invitations with full KSA compliance — SAMA, ZATCA VAT, PDPL, Arabic RTL, Mada/STC Pay integration.
@@ -128,34 +132,35 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talalhafizmuhammad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talalhafizmuhammad&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhafizmuhammad&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talalhafizmuhammad&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talalhafizmuhammad&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talalhafizmuhammad&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 🧠 Daily Coding Activity
+###  GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=talalhafizmuhammad&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+###  Daily Coding Activity
 
 <table align="center">
   <tr>
-    <td align="center"><strong>🔥 GitHub Heatmap</strong><br><br>
+    <td align="center"><strong> GitHub Heatmap</strong><br><br>
       <img src="https://ghchart.rshah.org/00FFFF/talalhafizmuhammad" alt="GitHub Contribution Chart" height="180">
     </td>
-    <td align="center"><strong>🧠 LeetCode Stats</strong><br><br>
+    <td align="center"><strong> LeetCode Stats</strong><br><br>
       <img src="https://leetcard.jacoblin.cool/talalhafizmuhammed?theme=dark&ext=heatmap" alt="LeetCode Streak" height="180">
     </td>
   </tr>
@@ -163,7 +168,7 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=talalhafizmuhammad&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
@@ -171,7 +176,7 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 📊 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talalhafizmuhammad&theme=tokyo-night&area=true&hide_border=true" />
@@ -179,7 +184,7 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 📍 Visitor Counter
+###  Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=talalhafizmuhammad&style=flat-square&color=00ffee" alt="visitor counter" />
@@ -187,7 +192,7 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="mailto:muhammadtala20201@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -197,6 +202,6 @@ A three-actor platform (Sender, Recipient, Merchant) for premium digital invitat
 
 ---
 
-### 💬 Quote That Drives Me
+###  Quote That Drives Me
 
 > **"The quieter you become, the more you are able to hear."** – Maulana Rumi
